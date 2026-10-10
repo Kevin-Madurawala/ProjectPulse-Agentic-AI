@@ -1,0 +1,11 @@
+task_id,task_name,duration_days,dependencies,owner,status
+R1,Project scope approval,2,,Project Manager,Complete
+R2,Current-state process mapping,3,R1,Industrial Engineer,In Progress
+R3,Sorting sensor specification,2,R2,Process Engineer,In Progress
+R4,Sensor and conveyor parts delivery,6,R3,Procurement Lead,At Risk
+R5,Electrical and controls preparation,4,R2,Controls Engineer,Not Started
+R6,Mechanical workstation layout,4,R2,Maintenance Lead,Not Started
+R7,Install sorting-line equipment,3,R4;R5;R6,Maintenance Lead,Not Started
+R8,Operator training preparation,3,R2,Operations Supervisor,Not Started
+R9,Trial run and calibration,3,R7;R8,Quality Engineer,Not Started
+R10,Performance acceptance testing,2,R9,Industrial Engineer,Not Started

@@ -1,0 +1,27 @@
+{
+  "generated_utc": "2026-10-10T00:53:18+00:00",
+  "python_version": "3.13.5",
+  "project_count": 3,
+  "golden_total": 12,
+  "golden_passed": 12,
+  "golden_pass_percent": 100.0,
+  "matched_total": 11,
+  "matched_one_feasible": 6,
+  "matched_two_feasible": 8,
+  "additional_feasible_cases": 2,
+  "monotonicity_passed": 11,
+  "timing_repeats": 25,
+  "overall_median_two_action_ms": 0.4911,
+  "evaluation_type": "Synthetic deterministic engine validation; no live AI / UI / human baseline tested",
+  "csv_sha256": {
+    "equipment_tasks.csv": "3ca35c6599d507ea85245b167130329d5c65d819e9f0df1362006bf014e55225",
+    "equipment_options.csv": "9bfddae549a7989656090bdf7dafb4e40e92127cc770fdc1fcf9263b409b6fa3",
+    "recycling_tasks.csv": "2073431341c29e5bcb6f8594fad634ab2c5104124e3e96d7a714930a4028e57c",
+    "recycling_options.csv": "8239f104fcfd84713702bc3af984a794e2a71a8325a51b3731da793f9aab860b",
+    "recycling_resources.csv": "216614b0a47a0151cc91744323fd72bddf0e8dc535098321a214767bda219da1",
+    "warehouse_tasks.csv": "15d760e88d5d64fc2da42c9eae16ddd71e2deb61c18f55580e62318c7852a56c",
+    "warehouse_options.csv": "3d40e64b3d1d58e1b18ba1dff787d2d686a6809bab7b708d2d16af0cb5826ff9",
+    "warehouse_resources.csv": "da42739378472298569625ee06e82721f4ff5c3d1a86c8cb02a68d087892d4d9"
+  },
+  "passed": true
+}

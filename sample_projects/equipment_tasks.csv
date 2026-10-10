@@ -1,0 +1,7 @@
+task_id,task_name,duration_days,dependencies,owner,status
+A,Project planning,2,,Project Manager,Complete
+B,Layout design,3,A,Industrial Engineer,Complete
+C,Equipment procurement,5,A,Procurement Lead,At Risk
+D,Site preparation,4,B,Facilities Lead,In Progress
+E,Equipment installation,3,C;D,Maintenance Lead,Not Started
+F,Testing and handover,2,E,Quality Engineer,Not Started

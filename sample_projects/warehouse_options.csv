@@ -1,0 +1,4 @@
+option_id,option_name,task_id,new_duration_days,additional_cost_usd,assumption
+FAST_FREIGHT,Priority freight for shelving,W4,7,250,Logistics partner confirms seven-day shelving delivery
+OVERTIME,Additional installation shift,W6,3,125,Overtime team is available and safe to schedule
+EXPRESS,Express shelving delivery,W4,6,550,Express shipping rate and date are confirmed

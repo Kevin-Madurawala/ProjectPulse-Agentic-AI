@@ -1,0 +1,4 @@
+option_id,option_name,task_id,new_duration_days,additional_cost_usd,assumption
+NO_ACTION,Do nothing,C,10,0,Supplier delivery delayed; no intervention
+ALTERNATE,Use alternate supplier,C,8,200,Alternate supplier can deliver within eight working days
+EXPEDITE,Expedite original supplier,C,7,450,Expedited delivery accepted by original supplier

@@ -1,0 +1,5 @@
+option_id,option_name,task_id,new_duration_days,additional_cost_usd,assumption,resource_id,resource_units,incompatible_with
+PRIORITY_PARTS,Priority replacement parts freight,R4,8,280,Supplier verifies eight-day delivery and freight fee,freight,1,
+ALTERNATE_VENDOR,Source alternate parts,R4,7,450,Part compatibility and alternate delivery confirmed,freight,1,
+INSTALL_CREW,Add qualified installation technician,R7,2,180,Maintenance verifies qualified technician available,technical_crew,1,
+CALIBRATION_OVERTIME,Add calibration overtime,R9,2,130,Quality team verifies overtime approved and feasible,quality_crew,1,

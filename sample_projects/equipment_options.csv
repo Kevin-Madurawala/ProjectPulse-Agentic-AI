@@ -1,0 +1,4 @@
+option_id,option_name,task_id,new_duration_days,additional_cost_usd,assumption
+ALTERNATE,Use alternate supplier,C,8,200,Alternate supplier confirms eight-day procurement total
+EXPEDITE,Expedite original supplier,C,7,450,Existing supplier confirms seven-day procurement total
+REASSIGN,Add installation support,E,2,125,Extra support is qualified and available

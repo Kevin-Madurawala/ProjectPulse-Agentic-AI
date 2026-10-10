@@ -1,0 +1,5 @@
+option_id,option_name,task_id,new_duration_days,additional_cost_usd,assumption,resource_id,resource_units,incompatible_with
+FAST_FREIGHT,Priority freight for shelving,W4,7,250,Logistics provider confirms shelving delivery in seven days,freight,1,
+OVERTIME,Additional installation shift,W6,3,125,Qualified crew approves overtime and safe installation duration,crew,1,
+PREP_CREW,Extra site preparation crew,W5,2,90,Additional site crew available to prepare site in two days,crew,1,
+EXPRESS,Express shelving delivery,W4,6,550,Express supplier confirms six-day delivery and quoted cost,freight,1,

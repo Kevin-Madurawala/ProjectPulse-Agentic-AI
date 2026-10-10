@@ -1,0 +1,9 @@
+task_id,task_name,duration_days,dependencies,owner,status
+W1,Project kickoff,2,,Project Manager,Complete
+W2,Layout design,4,W1,Industrial Engineer,In Progress
+W3,Vendor selection,3,W1,Procurement Lead,In Progress
+W4,Shelving delivery,6,W3,Logistics Lead,At Risk
+W5,Site preparation,3,W2,Facilities Lead,Not Started
+W6,Installation,4,W4;W5,Installation Lead,Not Started
+W7,Staff training,3,W2,Training Lead,Not Started
+W8,Commissioning,2,W6;W7,Quality Engineer,Not Started
